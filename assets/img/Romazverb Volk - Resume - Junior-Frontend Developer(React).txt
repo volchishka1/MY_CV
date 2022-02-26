@@ -1,0 +1,50 @@
+Roman Volk
+Junior-Frontend Developer(React)
+
+Minsk
+(25)5405588
+
+At the moment I have completed JavaScript courses at It Academy (average score 9). Finishing learning basic React(redux, Redux, Thunk, Router, Hoc, Hook, axios, form). Also worked with Node.js (Express), Webpack, bootstrap, JQuery and Sass, Less preprocessors. I know how to work with Git and at the moment I will try to work with gitlab. In JavaScript, I did a lot of both small and large tasks. Small - automatic rendering of forms, custom selector. Large-4 games,one of which is my graduation project. Everything can be found on my GitHub: https://github.com/volchishka1?tab=repositories
+
+
+PERSONAL INFORMATION
+  Address: , Minsk, 
+  Date of birth:  
+  Nationality: 
+  Driving License: 
+  Hobbies: In addition to being interested in web development, I really enjoy many sports. In winter I go skiing and skating, during the warmer months I ride a bike, play tennis, and all year round I play football and go to the pool.
+
+When I'm at home, I try to spend time studying web development and the latest technological advances, as well as what's new in space and on earth.
+
+SOCIAL PROFILES
+  * Linkedin: https://www.linkedin.com/feed/
+  * GitHub: https://github.com/volchishka1?tab=repositories
+
+LANGUAGES
+  ★★★☆☆ English
+
+SKILLS
+  HTML & CSS
+  JavaScript
+  React
+  Redux
+  jQuery
+  Node.js
+  Git
+  Bootstrap
+  Node.js
+
+EDUCATION
+  * September 2013 – January 2018
+    BELARUSIAN STATE TECHNOLOGICAL UNIVERSITY, Minsk BACHELOR OF SCIENCE
+  * October 2021 – January 2023
+    IT Academy, Minsk (Development of web applications in JavaScript)
+
+    I have completed JavaScript courses at It Academy (average score 9). 
+
+COURSES
+  * March 2020 – May 2020
+    Mastering Adobe Photoshop and CorelDraw, St. Petersburg School of Television
+  * May 2020 – October 2020
+    English language, ULC
+
